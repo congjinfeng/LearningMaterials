@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="collectionStudyDemo" />
+        <module name="exceptionStudyDemo" />
+        <module name="extendStudyDemo" />
+        <module name="InterviewCheck" />
+        <module name="iOStudyDemo" />
+        <module name="ioStudyDemo" />
+        <module name="javaReptile" />
+        <module name="threadStudyDemo" />
+        <module name="treeStudyDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collectionStudyDemo" target="1.5" />
+      <module name="exceptionStudyDemo" target="1.5" />
+      <module name="extendStudyDemo" target="1.5" />
+      <module name="InterviewCheck" target="1.5" />
+      <module name="iOStudyDemo" target="1.5" />
+      <module name="ioStudyDemo" target="1.5" />
+      <module name="javaReptile" target="1.5" />
+      <module name="javaStudyProject" target="1.5" />
+      <module name="swtStudyDemo" target="1.5" />
+      <module name="threadStudyDemo" target="1.6" />
+      <module name="treeStudyDemo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

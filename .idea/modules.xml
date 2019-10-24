@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InterviewCheck/InterviewCheck.iml" filepath="$PROJECT_DIR$/InterviewCheck/InterviewCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionStudyDemo/collectionStudyDemo.iml" filepath="$PROJECT_DIR$/collectionStudyDemo/collectionStudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionStudyDemo/exceptionStudyDemo.iml" filepath="$PROJECT_DIR$/exceptionStudyDemo/exceptionStudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extendStudyDemo/extendStudyDemo.iml" filepath="$PROJECT_DIR$/extendStudyDemo/extendStudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioStudyDemo/ioStudyDemo.iml" filepath="$PROJECT_DIR$/ioStudyDemo/ioStudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaReptile/javaReptile.iml" filepath="$PROJECT_DIR$/javaReptile/javaReptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaStudyProject.iml" filepath="$PROJECT_DIR$/javaStudyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadStudyDemo/threadStudyDemo.iml" filepath="$PROJECT_DIR$/threadStudyDemo/threadStudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeStudyDemo/treeStudyDemo.iml" filepath="$PROJECT_DIR$/treeStudyDemo/treeStudyDemo.iml" />
+    </modules>
+  </component>
+</project>
